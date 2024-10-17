@@ -59,9 +59,9 @@
 
 ## 💬 Let’s Connect  
 
-- **LinkedIn:** [[linkedin.com](https://www.linkedin.com/in/harivanshbhardwaj/)(#)  
+- **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/harivanshbhardwaj/)  
 - **Twitter:** [Twitter](https://www.x.com/heyharivans)  
-- **Email:** harivanshb1@gmail.com  
+- **Email:** [harivanshb1@gmail.com](mailto:harivanshb1@gmail.com)  
 
 ---
 
