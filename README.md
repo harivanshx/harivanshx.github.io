@@ -1,55 +1,84 @@
 # harivanshx.github.io
 
 
+---
 
+# 👋 Hello, I'm Harivansh Bhardwaj!  
 
-Sure, here's a README template for your GitHub profile:
+![GitHub Banner](https://img.shields.io/badge/Software_Developer-Full_Stack_&_AI_enthusiast-blue?style=for-the-badge)  
+
+**🚀 I am a final-year B.Tech (CSE) student** passionate about Backend Development, Artificial Intelligence, SaaS platforms, and Open Source. I thrive on solving challenging problems and building impactful projects. Currently, I’m preparing for the GATE exam and working on exciting tech projects, both individually and in hackathons.  
 
 ---
 
-# Hi there, I'm Harivansh Bhardwaj! 👋
+## 👨‍💻 About Me  
 
-## About Me
+- 🔭 **Internship Experience:**  
+  Project Trainee at CYBER GYAN Virtual Internship Program, CDAC Noida  
+- 🛠 **Ongoing Projects:**  
+  1. **AI SaaS platform** with 5 tools, powered by Next.js 13 and Stripe  
+  2. **Manipulated Facial Image Detector** – Python script with Jupyter Notebook  
+  3. **Waste 2 Wealth** – E-commerce platform for recycling old goods with a gamified points system  
 
-👨‍💻 I'm a B-Tech CSE Final Year student at IKGPTU Mohali, passionate about coding and technology.
-
-🔭 I’m currently working on **IntelliMonst** and focusing on Data Structures and Algorithms.
-
-🌱 I’m currently learning and developing skills in JavaScript, Node.js, and other full-stack tools.
-
-⚡ Fun fact: My GitHub contributions are a mix of 40% original code, 30% Stack Overflow solutions, 10% Google searches, and 20% insights from ChatGPT.
-
-## 🔥 My Stats
-
-### Weekly Development Breakdown
-
-- **TypeScript:** 49.19%
-- **C++:** 19.87%
-- **JavaScript:** 18.89%
-- **Markdown:** 3.65%
-- **JSON:** 1.91%
-- **CSS:** 1.41%
-
-_Total time spent from 24 January 2023 to 02 October 2023: 37 hrs 36 mins_
-
-## 🛠️ Languages and Tools
-
-C, C++, Java, HTML, CSS, JavaScript, Bootstrap, TailwindCSS, Node.js, React.js, MongoDB, MySQL, Git, VS Code, Figma, npm, Notion, Canva
-
-## 🏆 Achievements
-
-- **Pull Shark x2**
-- **Quickdraw**
-- **YOLO**
-
-## 📊 Contribution Overview
-
-- **445 contributions** in the last year
-
-## 📫 Reach Me
-
-[LinkedIn](#) | [Gmail](#)
+- 🧑‍💼 **Career Goals:**  
+  Applying for the **Software Engineer (Front and Integrations)** role at Parity Technologies  
+- 🎯 **Current Challenge:**  
+  Preparing for **GATE 2025** and focusing on building clean & green technology solutions  
+- 🏫 **In College:**  
+  Monday to Friday, 9 AM – 1 PM  
+- ⏰ **Daily Schedule:**  
+  DSA practice in the morning | Engineering Drawing classes | 1-hour project work  
 
 ---
 
-Feel free to customize and add more sections as per your preferences. This README serves as a quick snapshot of your skills, achievements, and current projects, making it easier for visitors to understand your profile at a glance.
+## 🛠 Tech Stack & Skills  
+
+- **Languages:**  
+  Python, JavaScript, TypeScript, HTML/CSS, C++  
+- **Frameworks & Tools:**  
+  Next.js 13, Node.js, Express.js, React, Stripe API  
+- **Machine Learning & Data Science:**  
+  Jupyter Notebook, AI tools, Bayesian Statistics, MLE, Stochastic Gradient Descent  
+- **Version Control & Collaboration:**  
+  Git, GitHub  
+
+---
+
+## 🏆 Hackathons & Meetups  
+
+- Participated in **100x Dev Delhi** – Connected with inspiring developers like Striver and Manpreet  
+- Competing in **Student Innovation Hackathon** under the **Clean & Green Technology** theme  
+
+---
+
+## ⚡ Fun Facts & Interests  
+
+- 🍲 **Vegetarian & Fitness Enthusiast:** I aim to build muscle this winter with a **home workout plan** including skipping and creatine.  
+- 🎬 **Favorite Netflix Show:** *Stranger Things*  
+- 🛀 **Routine:** I prefer having dinner only after taking a bath at 9 PM.  
+- 📚 **Interest Areas:** Machine Learning, Backend Development, IAM platforms, Clean Energy Solutions  
+
+---
+
+## 💬 Let’s Connect  
+
+- **LinkedIn:** [[linkedin.com](https://www.linkedin.com/in/harivanshbhardwaj/)(#)  
+- **Twitter:** [Twitter](https://www.x.com/harivansx)  
+- **Email:** harivanshb1@gmail.com  
+
+---
+
+## 📊 GitHub Stats  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harivanshx&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harivanshx&layout=compact&theme=radical)  
+
+---
+
+### 🌱 “Stay curious. Keep building.”  
+
+---
+
+This README serves as an open window into my journey and aspirations as a developer. I hope to contribute to meaningful projects, grow as a software engineer, and make an impact in the world.  
+
+---
