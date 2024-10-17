@@ -1,8 +1,3 @@
-# harivanshx.github.io
-
-
----
-
 # 👋 Hello, I'm Harivansh Bhardwaj!  
 
 ![GitHub Banner](https://img.shields.io/badge/Software_Developer-Full_Stack_&_AI_enthusiast-blue?style=for-the-badge)  
@@ -27,16 +22,15 @@
 - 🏫 **In College:**  
   Monday to Friday, 9 AM – 1 PM  
 - ⏰ **Daily Schedule:**  
-  DSA practice in the morning | Engineering Drawing classes | 1-hour project work  
-
+  Learning Something new everyday
 ---
 
 ## 🛠 Tech Stack & Skills  
 
 - **Languages:**  
-  Python, JavaScript, TypeScript, HTML/CSS, C++  
+  Python, JavaScript, C++, HTML/CSS, C++  
 - **Frameworks & Tools:**  
-  Next.js 13, Node.js, Express.js, React, Stripe API  
+  Next.js , Node.js, Express.js, React, Stripe API  
 - **Machine Learning & Data Science:**  
   Jupyter Notebook, AI tools, Bayesian Statistics, MLE, Stochastic Gradient Descent  
 - **Version Control & Collaboration:**  
@@ -47,13 +41,16 @@
 ## 🏆 Hackathons & Meetups  
 
 - Participated in **100x Dev Delhi** – Connected with inspiring developers like Striver and Manpreet  
-- Competing in **Student Innovation Hackathon** under the **Clean & Green Technology** theme  
+- Competing in **Student Innovation Hackathon** under the **Clean & Green Technology** theme
+- Won **Tech Hunt** at CGC Landran competing by competing among 100 participants
+- Participated in numarous of hackathons and lead a team in a Hackathon
+  
 
 ---
 
 ## ⚡ Fun Facts & Interests  
 
-- 🍲 **Vegetarian & Fitness Enthusiast:** I aim to build muscle this winter with a **home workout plan** including skipping and creatine.  
+- 🍲 **Vegetarian & Fitness Enthusiast:** I aim to build muscle this winter with a **home workout plan**.  
 - 🎬 **Favorite Netflix Show:** *Stranger Things*  
 - 🛀 **Routine:** I prefer having dinner only after taking a bath at 9 PM.  
 - 📚 **Interest Areas:** Machine Learning, Backend Development, IAM platforms, Clean Energy Solutions  
@@ -63,7 +60,7 @@
 ## 💬 Let’s Connect  
 
 - **LinkedIn:** [[linkedin.com](https://www.linkedin.com/in/harivanshbhardwaj/)(#)  
-- **Twitter:** [Twitter](https://www.x.com/harivansx)  
+- **Twitter:** [Twitter](https://www.x.com/heyharivans)  
 - **Email:** harivanshb1@gmail.com  
 
 ---
